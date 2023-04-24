@@ -29,7 +29,10 @@ KIMS Hopsital, Maidstone Kent 2016-2017
 
 
 ### Areas of Interest and Expertise
-* Orthopaedic Surger
+* Orthopaedic Surgery: in particular Lower Limb Arthroplasty, Limb Recnstruction, Ligament Reconstruction, Knee Arthroscopy, Osteochondral Repair
+* Tissue Engineering: Chondrocyte and MSC culture, 3D Bio-printing, Extra Cellular Matrix, Mathematical Modelling
+* Computing:  Perl, HTML, Javascript Programming. I have over 30 repositories in Github.  Projects include  Medway Orthopaedic Computerised Rota Analaysis Program (MOCRAP), Graphical User Interface Design Frroma A Text Editor (GUIDeFATE), ASCIIloscope, Term::Graille
+* 3D Printing, Electronics and Robotics>  I have experience in CAD development, building robotic and electronic devices.  I have designed an experimental device with the purpose of printing 3D structures within a cavity, but mainly target innovations for my students.
 
 ### Presentations and Publications:
 * Aug 1996 **Basic Anatomy, Organs and Relationships**. and  **Orthopaedics**.
@@ -60,7 +63,7 @@ Podium presentation at the ICRS Surgical Skills Course at Guy's Hospital,
 London
 * July 2011 **Getting Critical Mass In Navigated Surgery**. Podium presentation
 at CAOS UK section of CAOS International 2011, London
-* Nov 2012 **Vital Printing - Constructing 3DPrinting Tissue Constructs**.
+* Nov 2012 **Vital Printing - Constructing 3D Printed Tissue Constructs**.
  Podium Presentation at ICRS surgical skills course
 * Mar 2013 **Answering without Knowing** Presentation as faculty at
 Examination preparations course
@@ -78,5 +81,5 @@ Canterbury Christ Church University, Kent Institute of Medicine and Surgery TERM
 * **Macrovascular Channels in a Tissue Engineered Construct with an Integrated Perfusion System.**  
 Canterbury Christ Church University, Kent Institute of Medicine and Surgery, Saif Ahmed, Ananthram Shetty, 
 Emily Billinge, TERMIS EU (Davos) 2017
-* **The design and validation of a low-cost trans perineal (TP) prostate biopsy simulator for training: improving trainees’ confidence and cognitive targeting skills.** Ong K, Bald P, Dryhurst D, Ahmed, S et al World Journal of Urology
+* **The design and validation of a low-cost trans perineal (TP) prostate biopsy simulator for training: improving trainees’ confidence and cognitive targeting skills.** Ong K, Bald P, Dryhurst D, Ahmed, S et al World Journal of Urology 2022
 
