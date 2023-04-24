@@ -9,7 +9,7 @@ Email: saiftynet@gmail.com saif.ahmed3@nhs.net Telephone: 07940 531355 Github: h
 * **FRCS (Trauma and Orthopaedics)** Intercollegiate Board of Surgeons, 2007
 * **MSc(IT)** University Of Liverpool, 2005
 
-### Current significant roles:
+### Current Significant roles:
 * **Associate Specialist Orthopaedic Surgeon**, *Darent Valley Hospital* 2017-current:
 I am a full time Orthopaedic Surgeon, evaluation and treating acute and elective othopaedic and Trauma patients
 * **Honorary Senior Lecturer**, *Canterbury Christ Church University* 2015-current
